@@ -1,0 +1,28 @@
+body {
+    background-image: url("bundo-kim-peq.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#container {
+    max-width: 600px;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 2% 2% 5% 2%;
+    background-color: rgba(198, 214, 52, 0.8);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+#billAmount {
+    font-size: 20px;
+    background-color: rgba(214, 224, 168, 0.9);
+    content: "$";
+}
